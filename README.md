@@ -38,5 +38,5 @@ node main.js
 ```
 
 <small style='color:gray'>
-TypeScript has a dependency of <b>node js</b>, if node js is not available on your machine then installation the node js.
+TypeScript has a dependency of <b>node js</b>, if node js is not available on your machine then install the node js.
 </small>
