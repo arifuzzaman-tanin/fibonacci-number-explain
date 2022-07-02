@@ -1,5 +1,7 @@
 ### HOW TO CALCULATE FIBONACCI ?
 
+<p>What is a fibonacci: The last number will be the summation of the immediate 2 first number.</p>
+
 <p style="margin-top:0px;margin-bottom:0px;">Rule</p>
 <p style="margin-top:0px;margin-bottom:0px;">F<sub><small>n</small></sub> = F<small><sub>n-2</sub></small> + F<small><sub>n-1</sub></small></p>
 
